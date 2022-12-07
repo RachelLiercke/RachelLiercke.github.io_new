@@ -1,0 +1,9 @@
+---
+title: "Website file"
+author: "Rachel Liercke"
+date: "2022-12-07"
+output: html_document
+---
+
+# Rachel Liercke's SMU MSDS website
+## Thanks for stopping by!
