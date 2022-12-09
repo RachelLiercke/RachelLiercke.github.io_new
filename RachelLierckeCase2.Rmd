@@ -488,4 +488,11 @@ write.csv(predAtt,"C:/Users/rache/Documents/DDS/Unit 14/Case2PredictionsLiercke_
 
 
 # Conclusion:
-## We were able to explore Job Role Trends, predict Monthly Income, and predict Attrition. All of this will be discussed in the powerpoint presentation and the executive summary given out at a later time.
+ We were able to see that Attrition factored into Job Role. Managers and Research Directors had the highest salaries. Research Scientists had the most trainings.
+The biggest factors that predicted Monthly Income were Department, Job Level, Total Working Years, and Years with Current Manager. These provided us an RMSE value less than $3000.
+The biggest factors for predicting Attrition were Job Satisfaction, Marital Status, and Over Time. These along with 10 other factors were able to predict Attrition above 60% specificty and sensitivity.
+
+Provided below are the links to the presentation and the rshiny app and are also provided at the end of the powerpoint.
+Presentation:https://youtu.be/T95nIE4KxRA
+Rshiny: https://rachelliercke.shinyapps.io/Case2_Rshiny_RL/
+
